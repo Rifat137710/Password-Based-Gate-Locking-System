@@ -5,9 +5,6 @@
 **Section:** C1 | **Group:** 03
 **Full report:** [`EEE_304_Project_Report_Group_03.pdf`](EEE_304_Project_Report_Group_03.pdf)
 
-> *Note: the report's cover page carries an "EEE 304 / Power Electronics Laboratory" header from
-> the department template, but the project itself is a digital logic design build — the filename
-> and all content are DLD.*
 
 ---
 
